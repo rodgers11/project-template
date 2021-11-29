@@ -1,0 +1,37 @@
+{
+  "wg_db": {
+    "host": "54.158.136.53",
+    "port": 3306,
+    "password": "songfou",
+    "db": "westgame_promote",
+    "user": "songfou"
+  },
+  "db": {
+    "host": "54.80.233.55",
+    "port": 3306,
+    "password": "songfou",
+    "db": "westgame_promote",
+    "user": "songfou"
+  },
+  "af_db": {
+    "host": "52.204.239.129",
+    "port": 3306,
+    "password": "songfou",
+    "db": "wg_stat",
+    "user": "songfou"
+  },
+  "wot_db": {
+    "host": "ec2-54-162-255-243.compute-1.amazonaws.com",
+    "port": 3306,
+    "password": "songfou",
+    "db": "afdb_westgame",
+    "user": "songfou"
+  },
+  "elk1": {
+    "host": "54.209.250.28",
+    "port": 3306,
+    "password": "songfou",
+    "db": "westgame_promote",
+    "user": "songfou"
+  }
+}
